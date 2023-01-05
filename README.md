@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 wonjinmon123](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>

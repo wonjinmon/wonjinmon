@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac
-wonjinmon123](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonjinmon123)](https://solved.ac/wonjinmon123/)
+
+
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Python&logoColor=white"/></a>

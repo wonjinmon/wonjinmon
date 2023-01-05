@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a>
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonijnmon123)](https://solved.ac/wonijnmon123/)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=wonjinmon" height="165">
+
+
+
+
 <!--
 **wonjinmon/wonjinmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonijnmon123)](https://solved.ac/wonijnmon123/)
-
-
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Python&logoColor=white"/></a>

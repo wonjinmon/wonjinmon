@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonjinmon123)](https://solved.ac/wonjinmon123/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonijnmon123)](https://solved.ac/wonijnmon123/)
 
 
 

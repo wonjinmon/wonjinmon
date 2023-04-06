@@ -1,7 +1,6 @@
-### Hi there 👋
 
- 🌱 I’m currently learning  ...
 
+ ### 🌱 I’m currently learning  ...
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -9,15 +8,23 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-🤔 ,,
+### 🤔 ,,,
 
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  
+
+
+#### ⚡ I'm interested in ... 
+`Autonomous Driving` , `Computer Vision`
+
+<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=wonijnmon123)](https://solved.ac/wonijnmon123)
 
-<img align='middle' src="https://github-readme-stats.vercel.app/api?username=wonjinmon" height="150">
+<br>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=wonjinmon" height="150">
 
 
 

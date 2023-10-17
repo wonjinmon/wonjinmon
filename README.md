@@ -3,10 +3,14 @@
  ### 🌱 I’m currently learning  ...
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Lightnig](https://img.shields.io/badge/Pytorch_Lightning-792EE5.svg?style=for-the-badge&logo=lightning&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Qt](https://img.shields.io/badge/PyQt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
 
 <!--
 ### 🤔 ,,,
@@ -16,9 +20,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 -->
 
+<br>
+
 #### ⚡ I'm interested in ... 
 `Autonomous Driving` , `Computer Vision`
 
+<br>
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=wonijnmon123)](https://solved.ac/wonijnmon123)
